@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Zatre",
+    "url": "https://github.com/LaurensDM/Zatre",
+    "description": "Zatre is a simple, old, german board game. This project was made in cooperation with 4 other teammembers during my first year of studying.",
+    "img": "http://localhost:5173/images/zatre.png",
+    "tags": [
+      "Java",
+      "JavaFX",
+      "MySQL"
+    ],
+    "status": "Finished"
+  },
+  {
+    "name": "ProjectMonsterSlayer",
+    "url": "https://github.com/LaurensDM/ProjectMonsterSlayer",
+    "description": "A simple game made with JavaFX. This is a project I made by myself after my first year of studying.",
+    "img": "http://localhost:5173/images/game.png",
+    "tags": [
+      "Java",
+      "JavaFX",
+      "MySQL"
+    ],
+    "status": "Eternal development"
+  },
+  {
+    "name": "SecretSanta",
+    "url": "https://github.com/LaurensDM/Secret-Santa-Website",
+    "description": "A simple web app (created in React) for creating secret santa events. Created during my second year of studying as an assignement.",
+    "img": "http://localhost:5173/images/homescreen1.png",
+    "tags": [
+      "koajs",
+      "reactjs",
+      "Bootstrap"
+    ],
+    "status": "Finished"
+  },
+  {
+    "name":"TodoApp",
+    "url":"https://github.com/LaurensDM/Todolist-website",
+    "description":"A simple todo app made with Next.js. Created during my second year of studying as a hobby project.",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "nextjs",
+      "tailwindcss",
+      "mongodb"
+    ],
+    "status":"In progress"
+  },
+  {
+    "name":"ProjectISBN",
+    "url":"https://github.com/LaurensDM/ProjectISBN",
+    "description":"A simple web app for a library. Created during my second year of studying as an assignement",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "Java",
+      "Spring",
+      "Thymeleaf",
+      "JPA"
+    ],
+    "status":"Finished"
+  },
+  {
+    "name":"delaware webshop frontend",
+    "url":"https://github.com",
+    "description":"Frontend for delaware. Created as an assignement by delaware, with 4 teammembers, during my second year of studying.",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "koajs",
+      "MUI",
+      "socket.io"
+    ],
+    "status":"Finished"
+  },
+  {
+    "name":"delaware webshop backend",
+    "url":"https://github.com",
+    "description":"Backend for delaware",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "koajs",
+      "socket.io"
+    ],
+    "status":"Finished"
+  },
+  {
+    "name":"delaware java app",
+    "url":"https://github.com",
+    "description":"Java app for delaware",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "Java",
+      "MaterialFX",
+      "Spring"
+    ],
+    "status":"Finished"
+  }
+]
