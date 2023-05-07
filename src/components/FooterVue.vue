@@ -1,7 +1,7 @@
 <template>
-  <v-layout>
+  <v-layout id="contact">
   <v-footer
-    class="bg-dark text-center flex flex-col p-5"
+    class="bg-dark text-center text-white flex flex-col p-5"
   >
     <div class="pt-0">
       <h1 class="text-2xl font-bold">Contact me</h1>

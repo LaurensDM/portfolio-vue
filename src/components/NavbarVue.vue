@@ -20,8 +20,8 @@
       <a href="#projects" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white mr-4">
         Projects
       </a>
-      <a href="#responsive-header" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white">
-        Blog
+      <a href="#skills" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white">
+        Skills
       </a>
     </div>
     <div>
