@@ -23,6 +23,13 @@
         </p>
       </div>
     </div>
+    <div class="flex justify-center mb-5">
+      <span class="underline hover:text-lg">
+        <a :href="pdf" target="_blank">
+          View my resume
+        </a>
+      </span>
+    </div>
     <div class="flex flex-row gap-32 justify-center text-darker fill-darker mb-5">
         <a href="https://facebook.com" target="_blank">
           <v-icon icon="fa-brands fa-facebook"/> 
@@ -38,3 +45,11 @@
   </div>
 </template>
 
+<script>
+  export default {
+    name: 'AboutScreen',
+    data : () => ({
+      pdf: window.location.origin + '/bijlagen.pdf'
+    })
+  }
+</script>

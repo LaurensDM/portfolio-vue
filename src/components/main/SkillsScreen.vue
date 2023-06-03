@@ -3,6 +3,7 @@
     <h1 class="text-dark text-center text-6xl mt-20 underline underline-offset-8 mb-10 title">Skills</h1>
     <h2 class="text-center font-bold text-xl mb-10">Technical skills</h2>
     <div class="grid md:grid-cols-3 gap-5 text-darkShade">
+
       <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 mx-auto mb-10">
         <h2 class="col-span-2 font-mono font-semibold">Web Development</h2>
         <div>
@@ -23,11 +24,11 @@
           <br>
           Bootstrap
         </div>
-        <div>
+        <!-- <div>
           <v-icon icon="fa-brands fa-sass" class="icon"/>
           <br>
           SASS
-        </div>
+        </div> -->
         <div>
           <img src="../../assets/logos/material-ui-1.svg" class="mx-auto">
           Material UI</div>
@@ -58,12 +59,13 @@
           <img src="../../assets/logos/koajs_logo_icon_168379.svg" class="mx-auto">
           Koa.js
         </div>
-        <div class="col-span-2">
+        <div >
           <v-icon icon="fa-brands fa-node-js" class="icon"/>
           <br>
           Node.js
         </div>
       </div>
+
       <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 grid-rows-5 mx-auto">
         <h2 class="col-span-2 font-mono font-semibold">Mobile Development</h2>
         <div >
@@ -80,7 +82,8 @@
           Dart
         </div>
       </div>
-      <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 grid-rows-7 mx-auto">
+
+      <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 mx-auto mb-10">
         <h2 class="col-span-2 font-mono font-semibold">Other</h2>
         <div >
           <v-icon icon="fa-brands fa-python" class="icon"/>
@@ -142,7 +145,9 @@
           Microsoft Office
         </div>
       </div>
+
     </div>
+    
     <h2 class="text-center font-bold text-xl mt-10 mb-10">Soft Skills</h2>
     <div class="grid md:grid-cols-2 gap-5 mb-20">
       <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 mx-auto">

@@ -70,7 +70,7 @@
       "MUI",
       "socket.io"
     ],
-    "status":"Finished"
+    "status":"Ended"
   },
   {
     "name":"delaware webshop backend",
@@ -81,7 +81,7 @@
       "koajs",
       "socket.io"
     ],
-    "status":"Finished"
+    "status":"Ended"
   },
   {
     "name":"delaware java app",
@@ -93,6 +93,60 @@
       "MaterialFX",
       "Spring"
     ],
-    "status":"Finished"
+    "status":"Ended"
+  },
+  {
+    "name":"Messenger App",
+    "url":"https://github.com",
+    "description":"A simple messenger app made with React Native",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "React Native"
+    ],
+    "status":"Initialisation"
+  },
+  {
+    "name":"Messenger Backend",
+    "url":"https://github.com",
+    "description":"Backend for the messenger app",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "GO",
+      "mongodb"
+    ],
+    "status":"Initialisation"
+  },
+  {
+    "name":"Gittemmer",
+    "url":"https://github.com",
+    "description":"A simple web app for storing code",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "NextJS",
+      "Typescript"
+    ],
+    "status":"Initialisation"
+  },
+  {
+    "name":"Gittemmer Backend",
+    "url":"https://github.com",
+    "description":"Backend for Gittemmer",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "Django python",
+      "sql"
+    ],
+    "status":"Initialisation"
+  },
+  {
+    "name":"Flutter flashcard app",
+    "url":"https://github.com",
+    "description":"A simple flashcard app made with Flutter. Created during my second year of studying as a hobby project.",
+    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "tags":[
+      "Flutter",
+      "Dart"
+    ],
+    "status":"Initialisation"
   }
 ]
