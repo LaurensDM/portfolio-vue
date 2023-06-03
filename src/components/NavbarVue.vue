@@ -1,61 +1,40 @@
 <template>
   <nav class="flex bg-black fixed w-full text-regular items-center justify-between flex-wrap bg-gray-800 p-6 z-20 border-b-2 border-b-dark">
-  <div class="flex items-center flex-shrink-0 text-white mr-6">
+  <div class="flex items-center flex-shrink-0 text-white ">
     <span class="font-semibold text-xl tracking-tight">
-      <a href="#">My Portfolio</a> </span>
+      <a href="#">Laurens De Maeyer</a> </span>
   </div>
-  <div class="block sm:hidden">
+  <div class="block md:hidden ms-auto">
     <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded bg-dark border-black hover:text-regular hover:border-white">
       <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0zm0 6h20v2H0zm0 6h20v2H0z"/></svg>
     </button>
   </div>
-  <div class="w-full block flex-grow sm:flex sm:items-center sm:w-auto" id="nav-content">
-    <div class="text-sm sm:flex-grow">
-      <a href="#" class="block mt-4 sm:inline-block sm:mt-0 hover:text-white mr-4">
+  <div class="w-full block flex-grow md:flex md:items-center md:w-auto" id="nav-content">
+    <div class="text-md md:flex-grow md:flex-row flex-col flex justify-center gap-5">
+      <a href="#" class="block mt-4 md:inline-block md:mt-0 hover:text-white mr-4">
         Home
       </a>
-      <a href="#about" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white mr-4">
+      <a href="#about" class="block mt-4 md:inline-block md:mt-0  hover:text-white mr-4">
         About
       </a>
-      <a href="#projects" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white mr-4">
+      <a href="#projects" class="block mt-4 md:inline-block md:mt-0  hover:text-white mr-4">
         Projects
       </a>
-      <a href="#skills" class="block mt-4 sm:inline-block sm:mt-0  hover:text-white">
+      <a href="#skills" class="block mt-4 md:inline-block md:mt-0  hover:text-white">
         Skills
       </a>
     </div>
     <div>
-      <button @click.prevent="playMusic" href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:bg-red mt-4 sm:mt-0">Don't Click!</button>
+      <button @click.prevent="playMusic" href="#" style="width: 176px" class="inline-block text-md px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:bg-red mt-4 md:mt-0">Don't Click!</button>
     </div>
     <audio ref="audio">
       <source src="../assets/hitting-hard-cinematic-rock-trailer-142396.mp3" />
     </audio>
   </div>
+  <div>
+    
+  </div>
 </nav>
-
-    <!-- <div class="nav z-10">
-  <input type="checkbox" id="nav-check">
-  <div class="nav-header">
-    <div class="nav-title">
-      JoGeek
-    </div>
-  </div>
-  <div class="nav-btn">
-    <label for="nav-check">
-      <span></span>
-      <span></span>
-      <span></span>
-    </label>
-  </div>
-  
-  <div class="nav-links">
-    <a href="//github.io/jo_geek" target="_blank">Github</a>
-    <a href="http://stackoverflow.com/users/4084003/" target="_blank">Stackoverflow</a>
-    <a href="https://in.linkedin.com/in/jonesvinothjoseph" target="_blank">LinkedIn</a>
-    <a href="https://codepen.io/jo_Geek/" target="_blank">Codepen</a>
-    <a href="https://jsfiddle.net/user/jo_Geek/" target="_blank">JsFiddle</a>
-  </div>
-</div> -->
 </template>
 
 <script>
@@ -71,7 +50,7 @@
   },
   data() {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to My Portfolio App'
     }
 
   },
