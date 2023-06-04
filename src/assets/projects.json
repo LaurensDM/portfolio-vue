@@ -39,11 +39,10 @@
     "name":"TodoApp",
     "url":"https://github.com/LaurensDM/Todolist-website",
     "description":"A simple todo app made with Next.js. Created during my second year of studying as a hobby project.",
-    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "img":"http://localhost:5173/images/todolist.png",
     "tags":[
       "nextjs",
-      "tailwindcss",
-      "mongodb"
+      "tailwindcss"
     ],
     "status":"In progress"
   },
@@ -51,7 +50,7 @@
     "name":"ProjectISBN",
     "url":"https://github.com/LaurensDM/ProjectISBN",
     "description":"A simple web app for a library. Created during my second year of studying as an assignement",
-    "img":"https://avatars.githubusercontent.com/u/77189001?s=200&v=4",
+    "img":"http://localhost:5173/images/isbn.png",
     "tags":[
       "Java",
       "Spring",

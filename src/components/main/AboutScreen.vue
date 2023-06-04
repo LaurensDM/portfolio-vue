@@ -45,11 +45,11 @@
   </div>
 </template>
 
-<script>
+<script lang="js">
   export default {
     name: 'AboutScreen',
     data : () => ({
-      pdf: window.location.origin + '/bijlagen.pdf'
+      pdf: window.location.origin + '/CV_De_Maeyer_Laurens.pdf'
     })
   }
 </script>
