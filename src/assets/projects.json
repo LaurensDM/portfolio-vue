@@ -3,7 +3,7 @@
     "name": "Zatre",
     "url": "https://github.com/LaurensDM/Zatre",
     "description": "Zatre is a simple, old, german board game. This project was made in cooperation with 4 other teammembers during my first year of studying.",
-    "img": "http://localhost:5173/images/zatre.png",
+    "img": "https://laurensdm.netlify.app/images/zatre.png",
     "tags": [
       "Java",
       "JavaFX",
@@ -15,7 +15,7 @@
     "name": "ProjectMonsterSlayer",
     "url": "https://github.com/LaurensDM/ProjectMonsterSlayer",
     "description": "A simple game made with JavaFX. This is a project I made by myself after my first year of studying.",
-    "img": "http://localhost:5173/images/game.png",
+    "img": "https://laurensdm.netlify.app/images/game.png",
     "tags": [
       "Java",
       "JavaFX",
@@ -27,7 +27,7 @@
     "name": "SecretSanta",
     "url": "https://github.com/LaurensDM/Secret-Santa-Website",
     "description": "A simple web app (created in React) for creating secret santa events. Created during my second year of studying as an assignement.",
-    "img": "http://localhost:5173/images/homescreen1.png",
+    "img": "https://laurensdm.netlify.app/images/homescreen1.png",
     "tags": [
       "koajs",
       "reactjs",
@@ -39,7 +39,7 @@
     "name":"TodoApp",
     "url":"https://github.com/LaurensDM/Todolist-website",
     "description":"A simple todo app made with Next.js. Created during my second year of studying as a hobby project.",
-    "img":"http://localhost:5173/images/todolist.png",
+    "img":"https://laurensdm.netlify.app/images/todolist.png",
     "tags":[
       "nextjs",
       "tailwindcss"
@@ -50,7 +50,7 @@
     "name":"ProjectISBN",
     "url":"https://github.com/LaurensDM/ProjectISBN",
     "description":"A simple web app for a library. Created during my second year of studying as an assignement",
-    "img":"http://localhost:5173/images/isbn.png",
+    "img":"https://laurensdm.netlify.app/images/isbn.png",
     "tags":[
       "Java",
       "Spring",
