@@ -5,9 +5,9 @@
         <form
           id="contact"
           name="contact"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          method="POST"
+          netlify
+          netlify-honeypot="bot-field"
+          method="post"
           class="mx-auto flex flex-col max-w-lg px-16 py-10 gap-3 rounded-xl bg-darkShade"
         >
           <input type="hidden" name="form-name" value="contact" />
