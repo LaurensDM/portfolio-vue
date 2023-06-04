@@ -2,11 +2,11 @@
   <div class="flex text-dark flex-col  max-w-full min-vh-100 bg-white z-10 relative p-5" id="about">
     <h1 class="text-dark text-center text-6xl mt-20 underline underline-offset-8 mb-20 title">About me</h1>
     <h3 class="text-center text-xl">Bachelor Applied Informatics</h3>
-    <div class="grid gap-20 grid-cols-2 grid-rows-1 p-20 justify-center">
+    <div class="grid gap-20 md:grid-cols-2  p-10 justify-center">
       <div class="flex justify-center">
         <img src="https://picsum.photos/200" class="rounded" alt="">
       </div>
-      <div class="flex flex-col gap-5 justify-center t">
+      <div class="flex flex-col gap-5  justify-center">
         <h3 class="text-center font-bold">Hello there!</h3>
         <p>My name is Laurens De Maeyer, I was born in 'Oost-Vlaanderen', Belgium in 2001.
           Currently I'm studying Applied Informatics at the University College Ghent (HOGent).
@@ -30,7 +30,7 @@
         </a>
       </span>
     </div>
-    <div class="flex flex-row gap-32 justify-center text-darker fill-darker mb-5">
+    <div class="flex flex-row md:gap-32 gap-10 justify-center text-darker fill-darker mb-5">
         <a href="https://facebook.com" target="_blank">
           <v-icon icon="fa-brands fa-facebook"/> 
         </a>
