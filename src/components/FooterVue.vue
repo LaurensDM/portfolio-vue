@@ -10,7 +10,7 @@
           method="post"
           class="mx-auto flex flex-col max-w-lg px-16 py-10 gap-3 rounded-xl bg-darkShade"
         >
-          <input type="hidden" name="form-name" value="contact" />
+          <input type="hidden" name="form-name" value="contact"/>
           <h4>Contact me!</h4>
           <fieldset>
             <input
@@ -19,7 +19,6 @@
               type="text"
               tabindex="1"
               required
-              autofocus
               class="w-full form-input rounded text-black"
             />
           </fieldset>
