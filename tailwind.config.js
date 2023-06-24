@@ -14,6 +14,7 @@ export default {
       'darker': '#131c11',
       'black': '#181818',
       'red': '#ff0000',
+      'slate': '#ebe8e8',
     },
     extend: {},
   },

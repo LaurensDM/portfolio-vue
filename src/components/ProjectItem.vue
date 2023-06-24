@@ -1,6 +1,6 @@
 <template>
     <v-card
-    class="mx-auto rounded hover:shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105"
+    class="mx-auto rounded hover:shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 bg-slate "
     max-width="600"
     min-height="500"
   >
