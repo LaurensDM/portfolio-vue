@@ -77,9 +77,13 @@
           <img src="../../assets/logos/icon_flutter.svg" class="mx-auto">
           Flutter
         </div>
-        <div class="col-span-2">
+        <div class="">
           <img src="../../assets/logos/logo_dart_192px.svg" class="mx-auto">
           Dart
+        </div>
+        <div class="">
+          <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" class="mx-auto w-16 h-16">
+          Hive
         </div>
       </div>
 
@@ -152,10 +156,10 @@
     <div class="grid md:grid-cols-2 gap-5 mb-20">
       <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 mx-auto">
         <h2 class="col-span-2 font-mono font-semibold">Languages</h2>
-        <div >English (fluent)</div>
-        <div >French (minimal)</div>
-        <div >Dutch (fluent)</div>
-        <div >Japanese (minimal)</div>
+        <div >English (fluent, C2)</div>
+        <div >French (minimal, A2)</div>
+        <div >Dutch (fluent, native)</div>
+        <div >Japanese (beginner, A1)</div>
       </div>
       <div class="text-center grid gap-y-3 gap-x-10 grid-cols-2 mx-auto">
         <h2 class="col-span-2 font-mono font-semibold">Other</h2>

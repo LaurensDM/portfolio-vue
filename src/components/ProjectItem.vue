@@ -14,7 +14,7 @@
     </v-img>
     <v-card-title>{{project.name}}</v-card-title>
     <v-card-subtitle class="pt-4">
-      <a :href="`${project.url}`" class="text-regular hover:underline">Link to project</a>
+      <a :href="`${project.url}`" class="text-regular hover:underline" target="_blank">Link to project</a>
     </v-card-subtitle>
 
     <v-card-text>

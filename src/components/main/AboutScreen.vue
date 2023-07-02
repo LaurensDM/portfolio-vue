@@ -31,13 +31,13 @@
       </span>
     </div>
     <div class="flex flex-row md:gap-32 gap-10 justify-center text-darker fill-darker mb-5">
-        <a href="https://facebook.com" target="_blank">
+        <!-- <a href="https://facebook.com" target="_blank">
           <v-icon icon="fa-brands fa-facebook"/> 
-        </a>
+        </a> -->
         <a href="https://github.com/LaurensDM" target="_blank">
           <v-icon icon="fa-brands fa-github"/> 
         </a>
-        <a href="https://linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com/in/laurens-de-maeyer-218085282/" target="_blank">
           <v-icon icon="fa-brands fa-linkedin"/> 
         </a>
 
