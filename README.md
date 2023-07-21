@@ -1,8 +1,6 @@
 # Portfolio
 
-***WORK IN PROGRESS***
-
-This is my portfolio. 
+Check out the [online version](https://laurensdm.netlify.app)
 
 ## Global information
 
@@ -26,21 +24,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
-```
-
-```sh
-npm run build
-npm run test:e2e
 ```
