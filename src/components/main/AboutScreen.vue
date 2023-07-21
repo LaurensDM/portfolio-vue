@@ -4,7 +4,7 @@
     <h3 class="text-center text-xl">Bachelor Applied Informatics</h3>
     <div class="grid gap-20 md:grid-cols-2  p-10 justify-center">
       <div class="flex justify-center">
-        <img src="https://picsum.photos/200" class="rounded" alt="">
+        <img src="../../assets/profile.jpeg" class="rounded max-w-sm max-h-96">
       </div>
       <div class="flex flex-col gap-5  justify-center mb-10">
         <h3 class="text-center font-bold">Hello there!</h3>
