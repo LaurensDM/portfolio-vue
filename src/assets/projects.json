@@ -149,5 +149,15 @@
       "Hive"
     ],
     "status":"In progress"
+  },
+  {
+    "name":"ExpenseSage",
+    "url":"https://github.com/LaurensDM/ExpenseSage",
+    "description":"An android application to store and manage your expenses.",
+    "img":"https://laurensdm.netlify.app/images/expensesage.png",
+    "tags":[
+      "Android"
+    ],
+    "status":"In progress"
   }
 ]
