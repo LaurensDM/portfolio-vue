@@ -6,6 +6,7 @@ import ProjectsView from './components/main/ProjectsView.vue';
 import Navbar from './components/NavbarVue.vue';
 import FooterVue from './components/FooterVue.vue';
 import SkillsScreen from './components/main/SkillsScreen.vue';
+import ExperienceScreen from './components/main/ExperienceScreen.vue';
 </script>
 
 <template>
@@ -13,6 +14,7 @@ import SkillsScreen from './components/main/SkillsScreen.vue';
     <Navbar />
     <HomeScreen />
     <About />
+    <ExperienceScreen />
     <ProjectsView />
     <SkillsScreen />
     <FooterVue />

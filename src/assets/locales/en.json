@@ -1,0 +1,56 @@
+{
+    "home": {
+        "title": "Scroll to see more!"
+    },
+    "about": {
+        "title": "About me",
+        "bachelor": "Bachelor Applied Informatics",
+        "subtitle": "Hello there!",
+        "description": "My name is Laurens De Maeyer, I was born in 'Oost-Vlaanderen', Belgium in 2001. Currently, I'm working as a Business Analyst at Delaware Consulting. I studied Applied Informatics at HOGent. I started studying this course in 2021 and finished in 2024. Before I started studying Applied Informatics, I studied Chemistry at the same college. I have a deep passion for programming and I'm always eager to learn new things. Currently my main focus is on software development and web development. Mainly I'm working with the following technologies: javascript/typescript, java, html, css, Android (Kotlin). For the full list of technologies I'm competent in, check out my ",
+        "descriptionLink": "skills",
+        "descriptionSuffix": " page.",
+        "contact": "You can contact me via mail at laurensdm{'@'}outlook.com or through phone at +32 478 77 27 95. Or you can fill out the ",
+        "contactLink": "contact form",
+        "contactSuffix": " at the bottom of the website.",
+        "resume": "View my resume"
+    },
+    "experience": {
+        "title": "Timeline",
+        "filter": "Filter"
+    },
+    "projects": {
+        "title": "Projects",
+        "link": "Link to project"
+    },
+    "navbar": {
+        "about": "About",
+        "experience": "Timeline",
+        "projects": "Projects",
+        "skills": "Skills",
+        "certificates": "Certificates",
+        "button": "Don't click!"
+    },
+    "skills": {
+        "title": "Skills",
+        "subtitle1": "Technical skills",
+        "subtitle2": "Soft skills",
+        "languages": "Languages",
+        "english": "English (fluent, C2)",
+        "dutch": "Dutch (fluent, native)",
+        "french": "French (basic, A2)",
+        "japanese": "Japanese (beginner, A2)",
+        "other": "Other",
+        "softSkill1": "Communication",
+        "softSkill2": "Time management",
+        "softSkill3": "Problem-solving",
+        "softSkill4": "Adaptability"
+    },
+    "contact": {
+        "title": "Contact me",
+        "name": "Your name",
+        "email": "Your email",
+        "message": "Type your message here ...",
+        "send": "Submit"
+    }
+
+}

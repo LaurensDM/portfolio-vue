@@ -4,28 +4,35 @@
     <span class="font-semibold text-xl tracking-tight">
       <a href="#">Laurens De Maeyer</a> </span>
   </div>
-  <div class="block md:hidden ms-auto">
+  <div class="block lg:hidden ms-auto">
     <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded bg-dark border-black hover:text-regular hover:border-white">
       <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0zm0 6h20v2H0zm0 6h20v2H0z"/></svg>
     </button>
   </div>
-  <div class="w-full block flex-grow md:flex md:items-center md:w-auto" id="nav-content">
-    <div class="text-md md:flex-grow md:flex-row flex-col flex justify-center gap-5">
-      <a href="#" class="block mt-4 md:inline-block md:mt-0 hover:text-white mr-4">
-        Home
+  <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="nav-content">
+    <div class="text-md lg:flex-grow lg:flex-row flex-col flex justify-center gap-5">
+
+      <a href="#about" class="block mt-4 lg:inline-block lg:mt-0  hover:text-white mr-4">
+       {{ $t('navbar.about') }}
       </a>
-      <a href="#about" class="block mt-4 md:inline-block md:mt-0  hover:text-white mr-4">
-        About
+      <a href="#experience" class="block mt-4 lg:inline-block lg:mt-0  hover:text-white mr-4">
+        {{ $t('navbar.experience') }}
       </a>
-      <a href="#projects" class="block mt-4 md:inline-block md:mt-0  hover:text-white mr-4">
-        Projects
+      <a href="#projects" class="block mt-4 lg:inline-block lg:mt-0  hover:text-white mr-4">
+        {{ $t('navbar.projects') }}
       </a>
-      <a href="#skills" class="block mt-4 md:inline-block md:mt-0  hover:text-white">
-        Skills
+      <a href="#skills" class="block mt-4 lg:inline-block lg:mt-0  hover:text-white">
+        {{ $t('navbar.skills') }}
       </a>
+      <!-- <a href="#" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white mr-4">
+        {{ $t('navbar.certificates') }}
+      </a> -->
     </div>
-    <div>
-      <button @click.prevent="playMusic" href="#" style="width: 176px" class="inline-block text-md px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:bg-red mt-4 md:mt-0">Don't Click!</button>
+    <div style="width: 165.09px" class="lg:flex mt-5 lg:mt-0 gap-2">
+      <select v-model="$i18n.locale" class="bg-black rounded-lg px-6 py-2 overflow-hidden">
+        <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale" class=" p-5 text-white appearance-none hover:bg-dark focus:bg-dark">{{ locale }}</option>
+      </select>
+      <button @click.prevent="playMusic" href="#"  class="inline-block text-md px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:bg-red mt-4 lg:mt-0">{{ $t('navbar.button') }}</button>
     </div>
     <audio ref="audio">
       <source src="../assets/hitting-hard-cinematic-rock-trailer-142396.mp3" />

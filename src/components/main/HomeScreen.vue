@@ -1,6 +1,6 @@
 <template>
   <div id="home" class="flex justify-center items-center max-w-full h-screen">
-  <AutoTyping text="Laurens De Maeyer <br> Scroll to see more!" class="z-10"/>
+  <AutoTyping :text="'Laurens De Maeyer <br/> ' + $t('home.title')"  class="z-10"/>
   <div id="particle-pointer"></div>
 </div>
 </template>

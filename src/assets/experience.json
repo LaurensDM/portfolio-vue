@@ -1,0 +1,75 @@
+[
+    {
+        "year": "2001",
+        "titleNl": "Geboorte",
+        "titleEn": "Birth",
+        "descriptionNl": "Ik besta nu, cool!",
+        "descriptionEn": "I exist now, cool!",
+        "icon": "fas fa-baby",
+        "filter": "life"
+    },
+    {
+        "year": "2013 - 2019",
+        "titleNl": "Middelbaar",
+        "titleEn": "High School",
+        "descriptionNl": "Ik begon met ASO Moderne Wetenschappen en studeerde af in ASO Moderne Wetenschappen - Talen op SJKS (Sint-Jozef-Klein_Seminarie) in Sint-Niklaas.",
+        "descriptionEn": "I started with ASO Modern sciences and graduated in ASO Modern Sciences - Languages at SJKS (Sint-Jozef-Klein_Seminarie) in Sint-Niklaas.",
+        "icon": "fa-solid fa-school",
+        "filter": "education"
+    },
+    {
+        "year": "2019",
+        "titleNl": "Studentenjob - Q-chocolate",
+        "titleEn": "Student Job - Q-chocolate",
+        "descriptionNl": "Helpen bij het verpakken en transport van chocoladeproducten (magazijn, lopende band).",
+        "descriptionEn": "Helping with the packaging and transport of chocolate products (warehouse, assembly line).",
+        "icon": "fa-solid fa-briefcase",
+        "filter": "job"
+    },
+    {
+        "year": "2019 - 2021",
+        "titleNl": "Hogeschool - Chemie",
+        "titleEn": "College - Chemistry",
+        "descriptionNl": "Ik begon met Chemie aan HoGent, en specialiseerde verder naar afstudeerrichting Chemie-Chemie, maar heb deze studie niet afgerond.",
+        "descriptionEn": "I started with Chemistry at HoGent, and continued to the specialization Chemistry-Chemistry, but did not complete this study.",
+        "icon": "fa-solid fa-school",
+        "filter": "education"
+    },
+    {
+        "year": "2021 - 2024",
+        "titleNl": "Hogeschool - Toegepaste Informatica",
+        "titleEn": "College - Applied Informatics",
+        "descriptionNl": "Ik studeerde Toegepaste Informatica aan HoGent, en specialiseerde verder naar afstudeerrichting Mobile & Enterprise Development. Bij deze studie ben ik succesvol afgestudeerd",
+        "descriptionEn": "I studied Applied Informatics at HoGent, and continued to the specialization Mobile & Enterprise Development. I successfully graduated from this study.",
+        "icon": "fa-solid fa-school",
+        "filter": "education"
+    },
+    {
+        "year": "2022-2023",
+        "titleNl": "Studentenjob - 'De Meester'",
+        "titleEn": "Student Job - 'De Meester'",
+        "descriptionNl": "Klanten bedienen aan de kassa en producten verplaatsen in de winkel bij Horecamaterialen De Meester.",
+        "descriptionEn": "Serving customers at the cash register and moving products in the store at 'Horecamaterialen De Meester'.",
+        "icon": "fa-solid fa-briefcase",
+        "filter": "job"
+    },
+    {
+        "year": "2024",
+        "titleNl": "Afstuderen",
+        "titleEn": "Graduation",
+        "descriptionNl": "Ik ben afgestudeerd aan HoGent met een diploma Toegepaste Informatica - Mobile & Enterprise Development.",
+        "descriptionEn": "I graduated from HoGent with a degree in Applied Informatics - Mobile & Enterprise Development.",
+        "icon": "fa-solid fa-graduation-cap",
+        "filter": "education"
+    },
+    {
+        "year": "2024",
+        "titleNl": "Starten bij Delaware Consulting",
+        "titleEn": "Starting at Delaware Consulting",
+        "descriptionNl": "Ik start bij Delaware Consulting als een Business Analyst.",
+        "descriptionEn": "I start at Delaware Consulting as a Business Analyst.",
+        "icon": "fa-solid fa-briefcase",
+        "filter": "job"
+    }
+
+]

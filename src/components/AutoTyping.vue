@@ -52,6 +52,12 @@ export default {
   mounted() {
     this.typeText()
   },
+  watch: {
+    '$i18n.locale': function(newLocale) {
+      this.currentText = ''
+      this.typeText()
+    }
+  },
   methods: {
     typeText() {
       let i = 0

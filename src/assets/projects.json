@@ -2,7 +2,8 @@
   {
     "name": "Zatre",
     "url": "https://github.com/LaurensDM/Zatre",
-    "description": "Zatre is a simple, old, german board game. This project was made in cooperation with 4 other teammembers during my first year of studying.",
+    "descriptionNl": "Zatre is een simpel, oud, duits bordspel. Dit project is gemaakt in samenwerking met 4 andere teamleden tijdens mijn eerste jaar van studeren.",
+    "descriptionEn": "Zatre is a simple, old, german board game. This project was made in cooperation with 4 other teammembers during my first year of studying.",
     "img": "https://laurensdm.netlify.app/images/zatre.png",
     "tags": [
       "Java",
@@ -14,7 +15,8 @@
   {
     "name": "ProjectMonsterSlayer",
     "url": "https://github.com/LaurensDM/ProjectMonsterSlayer",
-    "description": "A simple game made with JavaFX. This is a project I made by myself after my first year of studying.",
+    "descriptionNl": "Een simpel spel gemaakt met JavaFX. Dit is een project dat ik alleen heb gemaakt na mijn eerste jaar van studeren.",
+    "descriptionEn": "A simple game made with JavaFX. This is a project I made by myself after my first year of studying.",
     "img": "https://laurensdm.netlify.app/images/game.png",
     "tags": [
       "Java",
@@ -26,11 +28,12 @@
   {
     "name": "SecretSanta",
     "url": "https://github.com/LaurensDM/Secret-Santa-Website",
-    "description": "A simple web app (created in React) for creating secret santa events. Created during my second year of studying as an assignement.",
+    "descriptionNl": "Een simpele web app (gemaakt in React) voor het maken van secret santa events. Gemaakt tijdens mijn tweede jaar van studeren als een opdracht.",
+    "descriptionEn": "A simple web app (created in React) for creating secret santa events. Created during my second year of studying as an assignement.",
     "img": "https://laurensdm.netlify.app/images/homescreen1.png",
     "tags": [
-      "koajs",
-      "reactjs",
+      "KoaJS",
+      "ReactJS",
       "Bootstrap"
     ],
     "status": "Finished"
@@ -38,55 +41,58 @@
   {
     "name":"TodoApp",
     "url":"https://github.com/LaurensDM/Todolist-website",
-    "description":"A simple todo app made with Next.js. Created during my second year of studying as a hobby project.",
+    "descriptionNl":"Een simpele todo app gemaakt met Next.js. Gemaakt tijdens mijn tweede jaar van studeren als een hobby project.",
+    "descriptionEn":"A simple todo app made with Next.js. Created during my second year of studying as a hobby project.",
     "img":"https://laurensdm.netlify.app/images/todolist.png",
     "tags":[
-      "nextjs",
-      "tailwindcss",
-      "prisma"
+      "NextJS",
+      "TailwindCSS",
+      "Prisma"
     ],
     "status":"In progress"
   },
   {
     "name":"ProjectISBN",
     "url":"https://github.com/LaurensDM/ProjectISBN",
-    "description":"A simple web app for a library. Created during my second year of studying as an assignement",
+    "descriptionNl":"Een simpele web app voor een bibliotheek. Gemaakt tijdens mijn tweede jaar van studeren als een opdracht.",
+    "descriptionEn":"A simple web app for a library. Created during my second year of studying as an assignement",
     "img":"https://laurensdm.netlify.app/images/isbn.png",
     "tags":[
-      "Java",
       "Spring",
-      "Thymeleaf",
-      "JPA"
+      "Thymeleaf"
     ],
     "status":"Finished"
   },
   {
     "name":"delaware webshop frontend",
     "url":"https://github.com/LaurensDM/Webshop-frontend",
-    "description":"Frontend for delaware. Created as an assignement by delaware, with 4 teammembers, during my second year of studying.",
+    "descriptionNl":"Frontend voor delaware. Gemaakt als een opdracht door delaware, met 4 teamleden, tijdens mijn tweede jaar van studeren.",
+    "descriptionEn":"Frontend for delaware. Created as an assignement by delaware, with 4 teammembers, during my second year of studying.",
     "img":"https://laurensdm.netlify.app/images/delawareFrontend.png",
     "tags":[
-      "koajs",
+      "KoaJS",
       "MUI",
-      "socket.io"
+      "Socket.io"
     ],
     "status":"Ended"
   },
   {
     "name":"delaware webshop backend",
     "url":"https://github.com/LaurensDM/Webshop-backend",
-    "description":"Backend for delaware",
+    "descriptionNl":"Backend voor delaware webshop",
+    "descriptionEn":"Backend for delaware webshop",
     "img":"https://laurensdm.netlify.app/images/delawareBackend.png",
     "tags":[
-      "koajs",
-      "socket.io"
+      "KoaJS",
+      "Socket.io"
     ],
     "status":"Ended"
   },
   {
     "name":"delaware java app",
     "url":"https://github.com/LaurensDM/Webshop-desktop",
-    "description":"Java app for delaware",
+    "descriptionNl":"Java app voor delaware webshop, ter gebruik voor interne magazijniers",
+    "descriptionEn":"Java app for delaware, to be used by internal warehouse workers",
     "img":"https://laurensdm.netlify.app/images/delawareDesktop.png",
     "tags":[
       "Java",
@@ -98,7 +104,8 @@
   {
     "name":"Messenger App",
     "url":"https://github.com/Qwict/Messaging-App-Frontend",
-    "description":"A simple messenger app made with React Native",
+    "descriptionNl":"Een simpele messenger app gemaakt met React Native",
+    "descriptionEn":"A simple messenger app made with React Native",
     "img":"https://laurensdm.netlify.app/images/WIP.jpg",
     "tags":[
       "React Native"
@@ -108,18 +115,20 @@
   {
     "name":"Messenger Backend",
     "url":"https://github.com/Qwict/Messaging-App-Webservice",
-    "description":"Backend for the messenger app",
+    "descriptionNl":"Backend voor de messenger app",
+    "descriptionEn":"Backend for the messenger app",
     "img":"https://laurensdm.netlify.app/images/WIP.jpg",
     "tags":[
       "GO",
-      "mongodb"
+      "MongoDB"
     ],
     "status":"Initialisation"
   },
   {
     "name":"Gittemmer",
     "url":"https://github.com/Qwict/Gittemmer-Frontend",
-    "description":"A simple web app for storing code",
+    "descriptionNl":"Een simpele web app voor het opslaan van code",
+    "descriptionEn":"A simple web app for storing code",
     "img":"https://laurensdm.netlify.app/images/WIP.jpg",
     "tags":[
       "NextJS",
@@ -130,18 +139,20 @@
   {
     "name":"Gittemmer Backend",
     "url":"https://github.com/Qwict/Gittemmer-Webservice",
-    "description":"Backend for Gittemmer",
+    "descriptionNl":"Backend voor Gittemmer",
+    "descriptionEn":"Backend for Gittemmer",
     "img":"https://laurensdm.netlify.app/images/WIP.jpg",
     "tags":[
       "Django python",
-      "sql"
+      "SQL"
     ],
     "status":"Initialisation"
   },
   {
     "name":"Flutter flashcard app",
     "url":"https://github.com/LaurensDM/Flutter-flashcards",
-    "description":"A simple flashcard app made with Flutter. Created during my second year of studying as a hobby project.",
+    "descriptionNl":"Een simpele flashcard app gemaakt met Flutter. Gemaakt tijdens mijn tweede jaar van studeren als een hobby project.",
+    "descriptionEn":"A simple flashcard app made with Flutter. Created during my second year of studying as a hobby project.",
     "img":"https://laurensdm.netlify.app/images/WIP.jpg",
     "tags":[
       "Flutter",
@@ -153,7 +164,8 @@
   {
     "name":"ExpenseSage",
     "url":"https://github.com/LaurensDM/ExpenseSage",
-    "description":"An android application to store and manage your expenses.",
+    "descriptionNl":"Een android applicatie om je uitgaven te beheren.",
+    "descriptionEn":"An android application to store and manage your expenses.",
     "img":"https://laurensdm.netlify.app/images/expensesage.png",
     "tags":[
       "Android"

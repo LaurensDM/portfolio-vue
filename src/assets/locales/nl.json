@@ -1,0 +1,56 @@
+{
+    "home": {
+        "title": "Scroll om meer te zien!"
+    },
+    "about": {
+        "title": "Over mij",
+        "bachelor": "Bachelor Toegepaste Informatica",
+        "subtitle": "Hallo daar!",
+        "description": "Mijn naam is Laurens De Maeyer, ik ben geboren in 'Oost-Vlaanderen', België in 2001. Momenteel werk ik als Business Analyst bij Delaware Consulting. Ik studeerde Toegepaste Informatica aan HOGent. Ik begon deze opleiding in 2021 en studeerde af in 2024. Voordat ik Toegepaste Informatica begon te studeren, studeerde ik Chemie aan dezelfde hogeschool. Ik heb een diepe passie voor programmeren en ben altijd enthousiast om nieuwe dingen te leren. Momenteel ligt mijn focus voornamelijk op softwareontwikkeling en webontwikkeling. Voornamelijk werk ik met de volgende technologieën: javascript/typescript, java, html, css, Android (Kotlin). Voor de volledige lijst van technologieën waarin ik competent ben, bekijk mijn ",
+        "descriptionLink": "vaardigheden",
+        "descriptionSuffix": "pagina.",
+        "contact": "Je kunt contact met me opnemen via e-mail op laurensdm{'@'}outlook.com of via telefoon op +32 478 77 27 95. Of je kan het ",
+        "contactLink": "contactformulier",
+        "contactSuffix": "onderaan de website invullen.",
+        "resume": "Bekijk mijn cv"
+    },
+    "experience": {
+        "title": "Tijdlijn",
+        "filter": "Filter"
+    },
+    "projects": {
+        "title": "Projecten",
+        "link": "Link naar project"
+    },
+    "navbar": {
+        "about": "Over mij",
+        "experience": "Tijdlijn",
+        "projects": "Projecten",
+        "skills": "Vaardigheden",
+        "certificates": "Certificaten",
+        "button": "Niet klikken"
+    },
+    "skills": {
+        "title": "Vaardigheden",
+        "subtitle1": "Technische vaardigheden",
+        "subtitle2": "Soft skills",
+        "languages": "Talen",
+        "english": "Engels (vloeiend, C2)",
+        "dutch": "Nederlands (vloeiend, moedertaal)",
+        "french": "Frans (basis, A2)",
+        "japanese": "Japans (beginner, A2)",
+        "other": "Andere",
+        "softSkill1": "Communicatie",
+        "softSkill2": "Tijdmanagement",
+        "softSkill3": "Probleemoplossend denken",
+        "softSkill4": "Aanpassingsvermogen"
+    },
+    "contact": {
+        "title": "Contacteer mij",
+        "name": "Uw naam",
+        "email": "Uw e-mail",
+        "message": "Typ hier uw bericht ...",
+        "send": "Verstuur"
+    }
+
+}
